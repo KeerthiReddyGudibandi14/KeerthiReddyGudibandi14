@@ -11,6 +11,19 @@ I'm Keerthi Reddy Gudibandi ✨
 - 🌱 I’m currently learning Web development, Data structures and algorithms.
 - 💞️ I’m looking to collaborate on Artificial Intelligence, Machine Learning and Data Structures projects.
 - 💬 Ask me about Java, AI, ML, NLP, SQL, HTML, CSS, Python.
+
+#### Let's connect!
+<p>
+  <a href="https://www.linkedin.com/in/keerthi-reddy-gudibandi-713718273/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:reddygudibandi798@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.researchgate.net/profile/Keerthi-Reddy-Gudibandi" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
+  </a>
+</p>
 </p>
 
 
