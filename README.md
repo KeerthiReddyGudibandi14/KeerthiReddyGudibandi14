@@ -13,6 +13,7 @@ I'm Keerthi Reddy Gudibandi ✨
 - 💬 Ask me about Java, AI, ML, NLP, SQL, HTML, CSS, Python.
 
 #### Let's connect!
+
 <h1>Let's connect!</h1>
 
 <p>
