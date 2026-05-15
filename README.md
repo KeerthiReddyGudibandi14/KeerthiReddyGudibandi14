@@ -15,7 +15,7 @@ I'm Keerthi Reddy Gudibandi ✨
 #### Let's connect!
 <p>
   <a href="https://www.linkedin.com/in/keerthi-reddy-gudibandi-713718273/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
   <a href="mailto:reddygudibandi798@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
