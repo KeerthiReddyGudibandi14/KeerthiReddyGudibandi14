@@ -14,8 +14,6 @@ I'm Keerthi Reddy Gudibandi ✨
 
 #### Let's connect!
 
-<h1>Let's connect!</h1>
-
 <p>
 <a href="https://www.linkedin.com/in/keerthi-reddy-gudibandi-713718273/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 <a href="mailto:kgudibandi@ufl.edu"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
